@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mapi
+- 👋 Hi, I’m Maria (MaPi)
 - 👀 I’m interested in Data Science and AI
 - 🌱 I’m currently learning for IBM Data Science Professional Certificate
 - 💞️ I’m looking to collaborate on Data Science Projects
