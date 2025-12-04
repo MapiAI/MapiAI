@@ -27,7 +27,7 @@ I’m open to collaborating on **data science projects** that combine technical 
 ## How to Reach Me
 - [GitHub](https://github.com/MapiAI)  
 - [LinkedIn](https://www.linkedin.com/in/maria-petralia)
-- [Tableau Public]([https://](https://public.tableau.com/app/profile/maria.petralia)
+- [Tableau Public](https://public.tableau.com/app/profile/maria.petralia)
 
 ## ⚡ Fun Fact
 I find beauty in both **nature and numbers**. When I’m not analyzing data, you’ll find me designing cakes 🎂, tending to my garden 🌱, or practicing yoga & tai chi 🧘‍♀️. Creativity and logic are the two forces that shape my world.
