@@ -13,7 +13,7 @@ Currently, I’m building projects in **Python, Pandas, NumPy, SQL, and data vis
 
 ## Featured Projects
 ### Car Data Analysis (Python, Jupyter)
-Repository: [Car Data Analysis](https://github.com/MapiAI/CarDataAnalysis) 
+Repository: [Car Data Analysis](https://github.com/MapiAI/Car-Data-Analysis) 
 ### Tableau Dashboards
 - [FIFA23 Dashboard](https://public.tableau.com/app/profile/maria.petralia/viz/FIFA23Dashboard/Dashboard) → Interactive player performance dashboard
 - [Unicorn Companies Dashboard](https://public.tableau.com/app/profile/maria.petralia/viz/UnicornDashboardMariaViktoria/Dashboard) → Business intelligence visualization of startup growth  
