@@ -3,7 +3,7 @@
 ## About Me
 I’m an AI & Data Science trainee at Masterschool with a background in Computer Science and over a decade of experience in digital solutions. My journey started with a Spectrum computer and has grown into a passion for turning data into meaningful insights and visual stories.  
 
-Currently, I’m building projects in **Python, Pandas, NumPy, SQL, and data visualization**, focusing on exploratory data analysis, dashboards, and preparing for machine learning applications. I love combining **creativity and logic**,  whether it’s designing vector graphics, analyzing datasets, or crafting visual narratives.
+Currently, I’m building projects in **Python, Pandas, NumPy, SQL, data visualization, and Machine Learning**, focusing on exploratory data analysis, dashboards, and machine learning applications. I love combining **creativity and logic**,  whether it’s designing vector graphics, analyzing datasets, or crafting visual narratives.
 
 ## Interests
 - Data Analytics & Visualization  
