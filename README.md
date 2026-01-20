@@ -23,7 +23,7 @@ Repository: [Car Data Analysis](https://github.com/MapiAI/Car-Data-Analysis)
 
 ## Currently Learning
 - Advanced data analysis techniques  
-- Machine learning fundamentals  
+- Machine learning
 - Best practices for GitHub portfolio building  
 
 ## Collaboration
