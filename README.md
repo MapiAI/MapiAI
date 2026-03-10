@@ -30,7 +30,7 @@ Unsupervised learning project using clustering to identify customer personas and
 🔗 Repo: https://github.com/MapiAI/TravelTide-Customer-Segmentation
 
 ### **Vehicle Silhouette Classification**  
-Supervised machine learning project that classifies vehicle types using tabular features extracted from vehicle silhouettes. The workflow includes exploratory data analysis, feature evaluation, model training, and performance assessment.
+Supervised machine learning project that classifies vehicle types using tabular features extracted from vehicle silhouettes. The workflow includes exploratory data analysis, feature evaluation, model training, and performance assessment.  
 🔗 Repo: https://github.com/MapiAI/Vehicle-Silhouette-Classification-Project
 
 ### **Car Data Analysis (Python, Jupyter)**  
