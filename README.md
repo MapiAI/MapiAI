@@ -26,7 +26,7 @@ End‑to‑end forecasting project with MLflow tracking, Streamlit apps, and mod
 🔗 Repo: https://github.com/MapiAI/corporacion_favorita
 
 ### **TravelTide – Customer Segmentation**  
-Unsupervised learning project using clustering to identify customer personas and behavioral patterns.  
+Unsupervised learning project using segmentation and clustering to identify customer personas and behavioral patterns.  
 🔗 Repo: https://github.com/MapiAI/TravelTide-Customer-Segmentation
 
 ### **Vehicle Silhouette Classification**  
