@@ -21,13 +21,17 @@ I’m particularly interested in how data can explain behavior, reveal structure
 
 ## 🚀 Featured Projects
 
+### **TravelTide – Customer Segmentation**  
+Unsupervised learning project using segmentation and clustering to identify customer personas and behavioral patterns.  
+🔗 Repo: https://github.com/MapiAI/TravelTide-Customer-Segmentation
+
 ### **Corporación Favorita – Time Series Sales Forecasting**  
 End‑to‑end forecasting project with MLflow tracking, Streamlit apps, and model evaluation.  
 🔗 Repo: https://github.com/MapiAI/corporacion_favorita
 
-### **TravelTide – Customer Segmentation**  
-Unsupervised learning project using segmentation and clustering to identify customer personas and behavioral patterns.  
-🔗 Repo: https://github.com/MapiAI/TravelTide-Customer-Segmentation
+### **CIFAR-10 Image Classification (CNN, ResNet50 Transfer Learning)**  
+Image classification on the CIFAR-10 dataset using a custom CNN and a transfer learning approach based on a pretrained ResNet50 model.
+🔗 Repo: https://github.com/MapiAI/cifar10-image-classification
 
 ### **Vehicle Silhouette Classification**  
 Supervised machine learning project that classifies vehicle types using tabular features extracted from vehicle silhouettes.   
