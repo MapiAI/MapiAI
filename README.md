@@ -1,25 +1,27 @@
 # 👋 Hi, I’m Maria Petralia (MaPi)
 
 ## About Me
-I’m an AI & Data Science trainee at Masterschool with a background in Computer Science and over a decade of experience in digital solutions. My journey started with a Spectrum computer and has grown into a passion for turning data into meaningful insights and visual stories.
+I’m an aspiring Data Scientist and AI practitioner with a background in Computer Science and more than ten years of experience in digital solutions. Currently training in AI & Data Science at Masterschool, I build data-driven projects using Python, SQL, Machine Learning, and Data Visualization.
 
-I work with **Python, Pandas, NumPy, SQL, data visualization, and Machine Learning**, building projects that span exploratory data analysis, dashboards, predictive modeling, clustering, and end‑to‑end applications. I enjoy combining **creativity and logic**, whether I’m designing vector graphics, analyzing datasets, or crafting clear and intuitive visual narratives.
+My portfolio includes exploratory data analysis, predictive modeling, clustering, recommendation systems, and computer vision projects, with a strong focus on clean, reproducible workflows and model evaluation. I enjoy turning complex datasets into actionable insights and creating solutions that combine analytical rigor with practical business value.
 
-I’m particularly interested in how data can explain behavior, reveal structure, and support decision‑making. My current focus is on supervised and unsupervised learning, model evaluation, and clean, reproducible workflows.
-
----
-
-## 🔍 Interests
-- Data Analytics & Visualization  
-- Machine Learning & Predictive Modeling  
-- Unsupervised Learning & Clustering  
-- Visual storytelling with data  
-- Clean, reproducible workflows  
-- Continuous learning and resilience  
+I’m particularly interested in machine learning, computer vision, explainable AI, and the application of data science to real-world decision-making.
 
 ---
 
-## 🚀 Featured Projects
+## Interests
+
+- Machine Learning & Artificial Intelligence
+- Computer Vision & Deep Learning
+- Data Analytics & Visualization
+- Predictive Modeling
+- Unsupervised Learning & Clustering
+- Explainable AI & Model Evaluation
+- Reproducible Data Science Workflows
+- Continuous Learning
+---
+
+## Featured Projects
 
 ### **TravelTide – Customer Segmentation**  
 Unsupervised learning project using segmentation and clustering to identify customer personas and behavioral patterns.  
@@ -47,26 +49,28 @@ Exploratory data analysis and visualization on car datasets.
 
 ---
 
-## 📚 Currently Learning
-- Advanced data analysis techniques  
-- Machine learning best practices  
-- Model deployment and MLOps foundations  
-- GitHub portfolio building and documentation  
+## Currently Learning
 
+- Generative AI & Conversational AI Systems
+- Large Language Models (LLMs) and Prompt Engineering
+- Deep Learning & Computer Vision
+- AI Application Development
+- Model Deployment and MLOps Foundations
+- Reproducible AI and Machine Learning Workflows
 ---
 
-## 🤝 Collaboration
+## Collaboration
 I’m open to collaborating on **data science projects** that combine technical depth with clear communication and visualization.
 
 ---
 
-## 📬 How to Reach Me
+## How to Reach Me
 - GitHub: https://github.com/MapiAI  
 - LinkedIn: https://www.linkedin.com/in/maria-petralia  
 - Tableau Public: https://public.tableau.com/app/profile/maria.petralia  
 
 ---
 
-## ⚡ Fun Fact
+## Fun Fact
 I find beauty in both **nature and numbers**. When I’m not analyzing data or creating vector images, you’ll find me designing cakes 🎂, tending to my garden 🌱, or practicing yoga & tai chi 🧘‍♀️. Creativity and logic are the two forces that shape my world.
 
