@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Maria Petralia (MaPi)
 
 ## About Me
-I’m an aspiring Data Scientist and AI practitioner with a background in Computer Science and more than ten years of experience in digital solutions. Currently training in AI & Data Science at Masterschool, I build data-driven projects using Python, SQL, Machine Learning, and Data Visualization.
+I’m a Data Scientist and AI practitioner with a background in Computer Science and more than ten years of experience in software development and digital solutions. I build end-to-end data and AI projects spanning machine learning, predictive analytics, natural language processing, computer vision, and generative AI applications.
 
-My portfolio includes exploratory data analysis, predictive modeling, clustering, recommendation systems, and computer vision projects, with a strong focus on clean, reproducible workflows and model evaluation. I enjoy turning complex datasets into actionable insights and creating solutions that combine analytical rigor with practical business value.
+My portfolio includes customer segmentation, time series forecasting, NLP classification, recommendation systems, and computer vision projects, with a strong focus on feature engineering, model evaluation, explainability, and reproducible workflows. I enjoy transforming complex data into actionable insights and designing AI-powered solutions that combine technical rigor with real-world impact.
 
-I’m particularly interested in machine learning, computer vision, explainable AI, and the application of data science to real-world decision-making.
+I am particularly interested in Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Explainable AI, Large Language Models, Retrieval-Augmented Generation (RAG), and the development of responsible AI systems that address meaningful business and social challenges.
 
 ---
 
@@ -13,12 +13,16 @@ I’m particularly interested in machine learning, computer vision, explainable 
 
 - Machine Learning & Artificial Intelligence
 - Computer Vision & Deep Learning
+- Natural Language Processing & Text Classification
+- Large Language Models & Generative AI
+- Retrieval-Augmented Generation (RAG)
+- Responsible AI & Ethical AI Design
 - Data Analytics & Visualization
-- Predictive Modeling
+- Predictive Modeling & Time Series
 - Unsupervised Learning & Clustering
 - Explainable AI & Model Evaluation
 - Reproducible Data Science Workflows
-- Continuous Learning
+  
 ---
 
 ## Featured Projects
