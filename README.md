@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Maria Petralia (MaPi)
 
 ## About Me
-I’m a Data Scientist and AI practitioner with a background in Computer Science and more than ten years of experience in software development and digital solutions. I build end-to-end data and AI projects spanning machine learning, predictive analytics, natural language processing, computer vision, and generative AI applications.
+I'm a Data Scientist and AI practitioner with a background in Computer Science and more than ten years of experience in software development and digital solutions. I build end-to-end data and AI projects spanning machine learning, predictive analytics, natural language processing, computer vision, and generative AI applications.
 
 My portfolio includes customer segmentation, time series forecasting, NLP classification, recommendation systems, and computer vision projects, with a strong focus on feature engineering, model evaluation, explainability, and reproducible workflows. I enjoy transforming complex data into actionable insights and designing AI-powered solutions that combine technical rigor with real-world impact.
 
