@@ -36,7 +36,7 @@ End‑to‑end forecasting project with MLflow tracking, Streamlit apps, and mod
 🔗 Repo: https://github.com/MapiAI/corporacion_favorita
 
 ### **CIFAR-10 Image Classification (CNN, ResNet50 Transfer Learning)**  
-Image classification on the CIFAR-10 dataset using a custom CNN and a transfer learning approach based on a pretrained ResNet50 model.
+Image classification on the CIFAR-10 dataset using a custom CNN and a transfer learning approach based on a pretrained ResNet50 model.  
 🔗 Repo: https://github.com/MapiAI/cifar10-image-classification
 
 ### **Vehicle Silhouette Classification**  
