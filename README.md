@@ -3,9 +3,9 @@
 ## About Me
 I'm a Data Scientist and AI practitioner with a background in Computer Science and more than ten years of experience in software development and digital solutions. I build end-to-end data and AI projects spanning machine learning, predictive analytics, natural language processing, computer vision, and generative AI applications.
 
-My portfolio includes customer segmentation, time series forecasting, NLP classification, recommendation systems, and computer vision projects, with a strong focus on feature engineering, model evaluation, explainability, and reproducible workflows. I enjoy transforming complex data into actionable insights and designing AI-powered solutions that combine technical rigor with real-world impact.
+My portfolio includes customer segmentation, time series forecasting, NLP classification, toxic communication pattern detection, recommendation systems, and computer vision projects, with a strong focus on feature engineering, model evaluation, explainability, and reproducible workflows. I enjoy transforming complex data into actionable insights and designing AI-powered solutions that combine technical rigor with real-world impact.
 
-I am particularly interested in Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Explainable AI, Large Language Models, Retrieval-Augmented Generation (RAG), and the development of responsible AI systems that address meaningful business and social challenges.
+I am particularly interested in Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Explainable AI, Large Language Models, Retrieval-Augmented Generation (RAG), Fine-tuning, and the development of responsible AI systems that address meaningful business and social challenges.
 
 ---
 
@@ -26,6 +26,10 @@ I am particularly interested in Machine Learning, Deep Learning, Natural Languag
 ---
 
 ## Featured Projects
+
+### SafeGuard AI – AI-Powered Toxic Communication Pattern Detection
+Full-stack GenAI application with multi-model AI pipeline, RAG, contextual risk assessment, and Responsible AI design. Built with FastAPI, PostgreSQL + pgvector, fine-tuned DistilBERT, OpenAI GPT-4o-mini, and Streamlit.
+🔗 Repo: https://github.com/MapiAI/SafeGuard-AI
 
 ### **TravelTide – Customer Segmentation**  
 Unsupervised learning project using segmentation and clustering to identify customer personas and behavioral patterns.  
@@ -53,14 +57,12 @@ Exploratory data analysis and visualization on car datasets.
 
 ---
 
-## Currently Learning
-
-- Generative AI & Conversational AI Systems
-- Large Language Models (LLMs) and Prompt Engineering
+## What I'm Working On
+- Generative AI application development (RAG, LLMs, fine-tuning)
 - Deep Learning & Computer Vision
-- AI Application Development
-- Model Deployment and MLOps Foundations
+- Model Deployment and MLOps
 - Reproducible AI and Machine Learning Workflows
+
 ---
 
 ## Collaboration
