@@ -16,6 +16,7 @@ I am particularly interested in Machine Learning, Deep Learning, Natural Languag
 - Natural Language Processing & Text Classification
 - Large Language Models & Generative AI
 - Retrieval-Augmented Generation (RAG)
+- Fine-tuning & Transfer Learning
 - Responsible AI & Ethical AI Design
 - Data Analytics & Visualization
 - Predictive Modeling & Time Series
