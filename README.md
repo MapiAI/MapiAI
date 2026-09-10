@@ -53,7 +53,7 @@ Exploratory data analysis and visualization on car datasets.
 🔗 Repo: https://github.com/MapiAI/Car-Data-Analysis
 
 ### **Tableau Dashboards**
-- [FIFA23 Dashboard](https://public.tableau.com/app/profile/maria.petralia/viz/FIFA23Dashboard/Dashboard) → Interactive player performance dashboard  
+- [FIFA23 Dashboard](https://public.tableau.com/app/profile/maria.petralia/viz/FIFA23TableauMiniProject/PlayerInsightDashboard) → Interactive player performance dashboard  
 - [Unicorn Companies Dashboard](https://public.tableau.com/app/profile/maria.petralia/viz/UnicornDashboardMariaViktoria/Dashboard) → Business intelligence visualization of startup growth  
 
 ---
