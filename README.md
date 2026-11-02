@@ -73,7 +73,7 @@ I’m open to collaborating on **data science projects** that combine technical 
 
 ## How to Reach Me
 - GitHub: https://github.com/MapiAI  
-- LinkedIn: https://www.linkedin.com/in/maria-petralia  
+- LinkedIn: https://www.linkedin.com/in/mariapetralia  
 - Tableau Public: https://public.tableau.com/app/profile/maria.petralia  
 
 ---
